@@ -1,0 +1,17 @@
+100;Ariana;102
+101;Mariana;201
+102;Cristian;103
+103;Mihai;501
+104;Andreea;400
+105;Andreea;100
+106;Victor;103
+107;Andrei;304
+108;Mara;203
+109;Andrei;504
+110;Aris;503
+111;Aris;102
+112;Ariana;404
+113;Mara;404
+114;Mara;504
+115;Cristian;401
+116;Andrei;100
